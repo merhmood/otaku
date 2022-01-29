@@ -1,1 +1,1 @@
-# A react application demonstrating react helmet
+# An application for event ads and tickets
